@@ -8,7 +8,7 @@ create table pessoas(
     sexo char (1),
     peso float,
     altura float,
-    naciomalidade varchar (20)
+    nacionalidade varchar (20)
 );
 
 #descrevendo a tabela pessoas
